@@ -4,7 +4,8 @@ export default function Header() {
     return (
         <div className='header'>
             <h1>
-            MetaDor By:Rahul 😂
+            DataCollector
+
             </h1>
             </div>
     )
